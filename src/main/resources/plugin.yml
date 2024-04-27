@@ -1,0 +1,9 @@
+name: ArmorStand
+version: '${project.version}'
+main: ch.ksrminecraft.armorstand.ArmorStand
+api-version: '1.20'
+commands:
+  armorstand:
+    description: ArmorStand
+    usage: /<command>
+    aliases: [as]
